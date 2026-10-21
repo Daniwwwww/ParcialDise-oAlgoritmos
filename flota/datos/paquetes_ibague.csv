@@ -1,0 +1,13 @@
+id,sector,peso_kg,prioridad,direccion
+P001,Centro,2,3,Carrera 3 Centro
+P002,La Pola,1,2,Barrio La Pola
+P003,El Jordan,4,3,Barrio El Jordan
+P004,La Samaria,3,1,Barrio La Samaria
+P005,Piedra Pintada,2,2,Barrio Piedra Pintada
+P006,Mirolindo,5,3,Zona Mirolindo
+P007,Ambala,2,2,Avenida Ambala
+P008,El Salado,4,1,Barrio El Salado
+P009,Cadiz,1,3,Barrio Cadiz
+P010,Centro,3,2,Calle 10 Centro
+P011,La Pola,2,1,Calle 6 La Pola
+P012,Mirolindo,3,2,Zona Industrial

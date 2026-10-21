@@ -1,0 +1,20 @@
+origen,destino,distancia_km
+Centro,La Pola,1.2
+Centro,Cadiz,2.0
+Centro,Piedra Pintada,2.5
+Centro,El Jordan,4.5
+Centro,Ambala,5.0
+La Pola,Cadiz,2.3
+La Pola,Piedra Pintada,2.0
+La Pola,Ambala,4.5
+Cadiz,Piedra Pintada,2.2
+Cadiz,Mirolindo,4.0
+Piedra Pintada,El Jordan,3.0
+Piedra Pintada,Mirolindo,3.5
+El Jordan,Ambala,3.0
+El Jordan,El Salado,5.0
+Ambala,El Salado,4.0
+Ambala,La Samaria,5.5
+Mirolindo,La Samaria,3.0
+Mirolindo,El Salado,6.0
+La Samaria,El Salado,4.0
